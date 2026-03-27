@@ -68,6 +68,6 @@ int main() {
         ans = (ans * (e + 1)) % mod;
     }
 
-    cout << ans << endl;
+    cout << ans;
     return 0;
 }
